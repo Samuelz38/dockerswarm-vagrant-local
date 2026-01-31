@@ -11,7 +11,7 @@ Este projeto automatiza a criação de um ambiente de infraestrutura escalável 
 * **VirtualBox**: Hypervisor para execução das VMs.
 * **Docker & Docker Swarm**: Containerização e orquestração em cluster. 
 * **Shell Script**: Automação do provisionamento e configuração do sistema. 
-* **Ubuntu 22.04 (Bento)**: Sistema operacional base das máquinas do cluster. 
+* **Ubuntu 22.04**: Sistema operacional base das máquinas do cluster. 
 
 
 
