@@ -83,3 +83,4 @@ Após o término, você pode validar o cluster acessando a máquina master:
 vagrant ssh master -c "docker node ls"
 
 ```
+teste
